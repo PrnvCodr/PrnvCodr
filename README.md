@@ -5,13 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=PrnvCodr&label=Profile%20views&color=0e75b6&style=flat" alt="PrnvCodr" />
 </p>
 
-- 🌱 I’m currently working on improving my **DSA and competitive coding** skills  
-- 💼 I’m experienced with **C++, Python, and problem-solving**  
+- 🔭 I’m currently focused on **competitive programming** and **system-level projects**
+- 🌱 Improving in **C++, multithreading, and algorithmic trading**
+- 💬 Ask me about **data structures, algorithms, and C++ STL**
 - 📫 Reach me at **pranavkashyap.official@gmail.com**
 
 ---
 
-### 🏆 Competitive Programming Profiles
+## 🏆 Competitive Programming Profiles
 
 <p align="left">
 
@@ -35,7 +36,7 @@
 
 ---
 
-### 📈 LeetCode Stats
+## 📈 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Alt_Shift_Elite?ext=contest" alt="LeetCode Stats" />
@@ -43,7 +44,7 @@
 
 ---
 
-### ⚔️ Codeforces Stats
+## ⚔️ Codeforces Stats
 
 <p align="center">
   <img src="https://cf-stats.vercel.app/api?username=Alt_Shift_Elite" alt="Codeforces Stats" />
@@ -51,7 +52,21 @@
 
 ---
 
-### 🧠 Languages and Tools
+## 🥇 CodeChef Stats
+
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/pranvkashyp122" alt="CodeChef Stats" />
+</p>
+
+---
+
+## 🧮 AtCoder Stats
+
+> Currently, AtCoder doesn't support public API stats like others, but your profile is linked above!
+
+---
+
+## 🧠 Skills & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -63,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrnvCodr&show_icons=true&theme=radical" />
@@ -71,4 +86,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrnvCodr&theme=radical" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrnvCodr&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrnvCodr&theme=radical&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrnvCodr&theme=react-dark" />
 </p>
