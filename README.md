@@ -22,32 +22,23 @@
 
 ---
 
-## ⚔️ Codeforces Overview
+## 🌐 Competitive Programming Profiles
 
 <p>
   <a href="https://codeforces.com/profile/Alt_Shift_Elite" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Alt__Shift__Elite-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-</p>
-
-> 🧠 **Rating:** [Your Current Rating]  
-> 🏅 **Max Rating:** [Your Max Rating]  
-> 🏆 **Rank:** [Specialist / Expert / etc.]  
-> 🔗 [Visit My Codeforces Profile](https://codeforces.com/profile/Alt_Shift_Elite)
-
-*→ Replace placeholder text above with real values manually, or let me fetch it for you on request.*
-
----
-
-## 🧭 Other Profiles
-
-<p>
+  
   <a href="https://www.codechef.com/users/pranvkashyp122" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-pranvkashyp122-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
   <a href="https://atcoder.jp/users/Alt_Shift_Elite" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-Alt__Shift__Elite-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/Alt_Shift_Elite" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Alt__Shift__Elite-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
