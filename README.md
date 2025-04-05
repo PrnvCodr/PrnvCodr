@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://atcoder.jp/users/Alt_Shift_Elite" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-Alt__Shift__Elite-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/AtCoder-Alt__Shift__Elite-1f8acb?style=for-the-badge" />
   </a>
 
   <a href="https://leetcode.com/Alt_Shift_Elite" target="_blank">
