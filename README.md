@@ -5,57 +5,55 @@
   <img src="https://komarev.com/ghpvc/?username=PrnvCodr&label=Profile%20views&color=0e75b6&style=flat" alt="PrnvCodr" />
 </p>
 
-- 🔭 I’m currently focused on **competitive programming** and **system-level C++ projects**
-- 🌱 Sharpening skills in **C++, algorithms, multithreading, and HFT systems**
-- 💬 Ask me about **DSA, CP, and C++ STL**
+- 🔭 I’m currently working on **system-level C++ and CP projects**
+- 🌱 Exploring **HFT systems, algorithm design & real-time simulators**
+- 💬 Ask me about **DSA, C++ STL, multithreading**
 - 📫 Reach me at **pranavkashyap.official@gmail.com**
 
 ---
 
-## 🏆 Competitive Programming Cards
+## 🏆 LeetCode Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/Alt_Shift_Elite" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Alt_Shift_Elite?ext=contest" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://codeforces.com/profile/Alt_Shift_Elite" target="_blank">
-        <img src="https://cf-stats.vercel.app/api?username=Alt_Shift_Elite&theme=dark" alt="Codeforces Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.codechef.com/users/pranvkashyp122" target="_blank">
-        <img src="https://github-readme-codechef-stats.vercel.app/api/pranvkashyp122?theme=dark" alt="CodeChef Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 Competitive Programming Profiles
-
-<p align="left">
-  <a href="https://codeforces.com/profile/Alt_Shift_Elite" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/pranvkashyp122" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+<p align="center">
   <a href="https://leetcode.com/Alt_Shift_Elite" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://atcoder.jp/users/Alt_Shift_Elite" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://leetcard.jacoblin.cool/Alt_Shift_Elite?ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
 ---
 
-## 🧠 Languages and Tools
+## ⚔️ Codeforces Overview
+
+<p>
+  <a href="https://codeforces.com/profile/Alt_Shift_Elite" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Alt__Shift__Elite-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+> 🧠 **Rating:** [Your Current Rating]  
+> 🏅 **Max Rating:** [Your Max Rating]  
+> 🏆 **Rank:** [Specialist / Expert / etc.]  
+> 🔗 [Visit My Codeforces Profile](https://codeforces.com/profile/Alt_Shift_Elite)
+
+*→ Replace placeholder text above with real values manually, or let me fetch it for you on request.*
+
+---
+
+## 🧭 Other Profiles
+
+<p>
+  <a href="https://www.codechef.com/users/pranvkashyp122" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-pranvkashyp122-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://atcoder.jp/users/Alt_Shift_Elite" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-Alt__Shift__Elite-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -75,14 +73,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrnvCodr&theme=radical" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrnvCodr&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrnvCodr&theme=radical&column=7" />
 </p>
 
 ---
