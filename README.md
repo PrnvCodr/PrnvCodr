@@ -3,7 +3,3 @@
 
 ---
 
-## 📫 Reach me at
-<p align="center">
-  pranavkashyap.official@gmail.com
-</p>
